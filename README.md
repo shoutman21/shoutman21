@@ -26,6 +26,6 @@ I offer professional services for:
 - **Mobile Application Development** (React Native).
 - **Backend Architecture** & API Integration.
 
-📫 **Want to work together?** Reach out via [LinkedIn](htpp://www.linkedin.com/in/shems-houtman) or email at **shemshoutman@gmail.com**.
+📫 **Want to work together?** Reach out via [LinkedIn](htpps://www.linkedin.com/in/shems-houtman) or email at **shemshoutman@gmail.com**.
 
 ---
