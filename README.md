@@ -29,3 +29,9 @@ I offer professional services for:
 📫 **Want to work together?** Reach out via [LinkedIn](https://www.linkedin.com/in/shems-houtman) or email at **shemshoutman@gmail.com**.
 
 ---
+
+### ⚖️ Legal Information
+- **Entity:** Shems Houtman EI
+- **SIRET:** [10311990500018]
+- **Location:** Paris, France 🇫🇷
+- **Status:** Registered Auto-entrepreneur
